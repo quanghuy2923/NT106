@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Downloads\laptrinhmang\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\ADMIN\Downloads\laptrinhmang\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\ADMIN\Downloads\laptrinhmang\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\ADMIN\Downloads\laptrinhmang\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\laptrinhmang\lab1\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\laptrinhmang\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\ADMIN\Downloads\laptrinhmang\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\laptrinhmang\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\laptrinhmang\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\laptrinhmang\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\ADMIN\Downloads\laptrinhmang\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\ADMIN\Downloads\laptrinhmang\lab1\lab1\obj\Debug\lab1.Bai2.resources
+C:\Users\ADMIN\Downloads\laptrinhmang\lab1\lab1\obj\Debug\lab1.Bai1.resources
+C:\Users\ADMIN\Downloads\laptrinhmang\lab1\lab1\obj\Debug\lab1.Bai3.resources
+C:\Users\ADMIN\Downloads\laptrinhmang\lab1\lab1\obj\Debug\lab1.Bai4.resources
+C:\Users\ADMIN\Downloads\laptrinhmang\lab1\lab1\obj\Debug\lab1.Bai5.resources
