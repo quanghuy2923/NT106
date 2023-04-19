@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Downloads\laptrinhmang\LAB02\LAB02\bin\Debug\LAB02.exe.config
+C:\Users\ADMIN\Downloads\laptrinhmang\LAB02\LAB02\bin\Debug\LAB02.exe
+C:\Users\ADMIN\Downloads\laptrinhmang\LAB02\LAB02\bin\Debug\LAB02.pdb
+C:\Users\ADMIN\Downloads\laptrinhmang\LAB02\LAB02\obj\Debug\LAB02.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\laptrinhmang\LAB02\LAB02\obj\Debug\LAB02.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\laptrinhmang\LAB02\LAB02\obj\Debug\LAB02.LAB02.resources
+C:\Users\ADMIN\Downloads\laptrinhmang\LAB02\LAB02\obj\Debug\LAB02.Bai1.resources
+C:\Users\ADMIN\Downloads\laptrinhmang\LAB02\LAB02\obj\Debug\LAB02.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\laptrinhmang\LAB02\LAB02\obj\Debug\LAB02.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\laptrinhmang\LAB02\LAB02\obj\Debug\LAB02.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\laptrinhmang\LAB02\LAB02\obj\Debug\LAB02.exe
+C:\Users\ADMIN\Downloads\laptrinhmang\LAB02\LAB02\obj\Debug\LAB02.pdb
+C:\Users\ADMIN\Downloads\laptrinhmang\LAB02\LAB02\obj\Debug\LAB02.Bai2.resources
+C:\Users\ADMIN\Downloads\laptrinhmang\LAB02\LAB02\obj\Debug\LAB02.Bai3.resources
